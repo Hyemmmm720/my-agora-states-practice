@@ -28,4 +28,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-77-hyemmmm720-s3 \
             --delete
-        working-directory: ./my-agora-states-practice-client
+        working-directory: ./my-agora-states-client
